@@ -13,6 +13,7 @@ import java.util.Scanner;
             Plant plant = new Plant(plantName);
             String filteredName = filter(plant);
             System.out.println(plantName + ", "  + filteredName);
+            System.out.println("Максимов Никита РИБО-05-22");
         }
     }
 
